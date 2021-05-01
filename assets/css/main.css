@@ -963,38 +963,20 @@ input, select, textarea {
 		}
 
 		table thead {
-			border-bottom: solid 2px #ffffff;
+			border-bottom: solid 4px #ffffff;
 		}
 
 		table tfoot {
-			border-top: solid 2px #ffffff;
+			border-top: solid 4px #ffffff;
 		}
 
-		table.alt {
-			border-collapse: separate;
-		}
+	.centered { vertical-align:middle;
+		text-align:center;
+	}
+	.centered img { display:block;
+		margin:0 auto;
+	}
 
-			table.alt tbody tr td {
-				border: solid 1px #ffffff;
-				border-left-width: 0;
-				border-top-width: 0;
-			}
-
-				table.alt tbody tr td:first-child {
-					border-left-width: 1px;
-				}
-
-			table.alt tbody tr:first-child td {
-				border-top-width: 1px;
-			}
-
-			table.alt thead {
-				border-bottom: 0;
-			}
-
-			table.alt tfoot {
-				border-top: 0;
-			}
 
 /* Button */
 

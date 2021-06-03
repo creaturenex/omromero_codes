@@ -1,1 +1,1 @@
-# Repo for [omromero.codes](www.omromero.codes)
+# Repo for [omromero.codes](http://omromero.codes/)
